@@ -1,7 +1,11 @@
 # student-life
 <br> 
-# my fist linux commants in aws 
+# my fist linux commants in aws
+<br>
 # 1 whoami 
-# 2 mkdir 
-# 3 cd ..
+<br>
+# 2 mkdir
+<br>
+# 3 cd .. 
+<br>
 # 4 pwd
