@@ -11,3 +11,5 @@ authore - aanand mahajan
 # 3 cd .. 
 <br>
 # 4 pwd
+# 5 new folder add 
+# 6more folder add 
